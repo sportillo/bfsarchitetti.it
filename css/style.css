@@ -17,15 +17,6 @@ body{
     right:0;
     bottom:0;
     margin:auto;
-    height: 150px;
+    height: 100px;
     width:auto;
-    opacity: 50%;
-    transition: opacity .5s ease-out;
-    -moz-transition: opacity .5s ease-out;
-    -webkit-transition: opacity .5s ease-out;
-    -o-transition: opacity .5s ease-out;
-}
-
-#logo:hover{
-  opacity: 100%
 }
