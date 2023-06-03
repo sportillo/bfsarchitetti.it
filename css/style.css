@@ -6,7 +6,7 @@ html, body
 }
 
 body{
-    background-image: url("../img/sfondo.jpg");
+    /*background-image: url("../img/sfondo.jpg");*/
     background-size: cover;
 }
 
